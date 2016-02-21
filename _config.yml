@@ -1,0 +1,14 @@
+layout_spectrum: 0.9823337
+color:
+  saturation: 0.5744681
+  lightness: 0.1170213
+  brandStrength: 0.7702128
+  brandColors:
+    - '#1D2030'
+    - '#5B5442'
+    - '#C8B3A3'
+    - '#F3F2F1'
+    - '#747299'
+  rhythmicContrast: 0.3340425
+typography_spectrum: 0.6240969
+name: CopeLitigation
