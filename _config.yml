@@ -1,14 +1,26 @@
-layout_spectrum: 0.9823337
 color:
   saturation: 0.5744681
-  lightness: 0.1170213
   brandStrength: 0.7702128
+  rhythmicContrast: 0.3340425
   brandColors:
     - '#1D2030'
     - '#5B5442'
     - '#C8B3A3'
     - '#F3F2F1'
     - '#747299'
-  rhythmicContrast: 0.3340425
+  lightness: 0.1170213
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9823337
 typography_spectrum: 0.6240969
 name: CopeLitigation
