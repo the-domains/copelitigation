@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CopeLitigation]]></title>
         <description><![CDATA[CopeLitigation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/copelitigation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 18:34:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 18:35:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/copelitigation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d359823c-f660-473c-b92e-1eff054a7aed.png">]]></description>
+            <link>https://thegrid.ai/copelitigation/48a537c7-50cd-4cf3-8702-6809f6803d0d/index.html</link>
+            <guid isPermaLink="false">48a537c7-50cd-4cf3-8702-6809f6803d0d</guid>
+            <pubDate>Sun, 21 Feb 2016 18:34:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b42a31c-11bb-497c-8717-2884408d45df.png">]]></description>
-            <link>undefined5d809504-2f8a-4275-a505-a1c454924bb5/index.html</link>
+            <link>https://thegrid.ai/copelitigation/5d809504-2f8a-4275-a505-a1c454924bb5/index.html</link>
             <guid isPermaLink="false">5d809504-2f8a-4275-a505-a1c454924bb5</guid>
             <pubDate>Sun, 21 Feb 2016 18:34:06 GMT</pubDate>
         </item>
